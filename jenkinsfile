@@ -7,12 +7,7 @@ pipeline {
                 // Add your build steps here
             }
         }
-         stage('test') {
-            steps {
-                echo 'Building...'
-                // Add your build steps here
-            }
-        }
+        
          
         
         
